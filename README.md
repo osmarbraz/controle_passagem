@@ -37,7 +37,7 @@ O programa servidor retorna:
 
 ## Arquivo do projeto
 
-O arquivo Modelo.EAP é o projeto do sistema utilizando ferramanta CASE Enterprise Arquitect.
+O arquivo Modelo.eap é o projeto do sistema utilizando ferramanta CASE Enterprise Arquitect.
 
 ## Outros arquivos
 
